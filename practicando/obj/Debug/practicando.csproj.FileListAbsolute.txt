@@ -1,0 +1,6 @@
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\practicando\practicando\bin\Debug\practicando.exe.config
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\practicando\practicando\bin\Debug\practicando.exe
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\practicando\practicando\bin\Debug\practicando.pdb
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\practicando\practicando\obj\Debug\practicando.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\practicando\practicando\obj\Debug\practicando.exe
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\practicando\practicando\obj\Debug\practicando.pdb
